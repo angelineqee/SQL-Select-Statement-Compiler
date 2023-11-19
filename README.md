@@ -2,26 +2,26 @@
 This is a lexical analyzer and a parser implemented in Python for the purpose of CPT316 Assignment 1. The language that is accepted by the compiler is SQL Select statement, with some limitations and exceptions. The concept of Recursive Decent Parser is implemented through recursive function call.
 
 ## Built with
-Visual Studio Code [https://code.visualstudio.com/] <br><br>
+Visual Studio Code [https://code.visualstudio.com/]
 
-### Prerequisites
-Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).<br>
+## Prerequisites
+Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
 
 ## Getting Started
-1.  Clone the project repository to your local machine. <br>
+1.  Clone the project repository to your local machine.
    ```bash
    git clone https://github.com/yourusername/yourproject.git
    ```
-2. There are 2 files in this project: SQL-Select-Statement-Compilation and test.txt. <br>
-Lexical-parser.py is the source code written in Python. <br>
-test.txt contains the test input, SQL SELECT statement, to the program. (Note: Only one SELECT statement can be parsed to the program each time) <br>
-You may rewrite the test.txt file to test the output for different inputs. <br><br>
+2. There are 2 files in this project: SQL-Select-Statement-Compilation and test.txt.
+Lexical-parser.py is the source code written in Python.
+test.txt contains the test input, SQL SELECT statement, to the program. (Note: Only one SELECT statement can be parsed to the program each time)
+You may rewrite the test.txt file to test the output for different inputs.
 
-3. Replace the file path to the test.txt in the source code at line 171. <br>
+3. Replace the file path to the test.txt in the source code at line 171.
 ```
 text = open('YourFilePath','r')
 ``` 
-4. You may run the source code on your preferred IDE or <br><br>
+4. You may run the source code on your preferred IDE or
 
 ### Running the Python Script
 
