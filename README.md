@@ -1,4 +1,4 @@
-## SQL Select Statement - Lexixal and Syntax Analyzer
+## SQL Select Statement - Lexical and Syntax Analyzer
 This is a lexical analyzer and a parser implemented in Python for the purpose of CPT316 Assignment 1. The language that is accepted by the compiler is SQL Select statement, with some limitations and exceptions. The concept of Recursive Decent Parser is implemented through recursive function call.
 
 ## Built with
